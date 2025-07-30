@@ -120,7 +120,7 @@ The simulation is integrated with real-world track data (elevation, wind, curvat
 If you're a student, researcher, or developer working on a similar competition or simulator and want help recreating or understanding the system, reach out!
 
 **👤 Ahmed AboElyazeed**  
-📧 **Email:** [ahmed.abouelyazeed@gmail.com](mailto:aboelyazeed7777@gmail.com)  
+📧 **Email:** [aboelyazeed7777@gmail.com](mailto:aboelyazeed7777@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/ahmedaboelyazeed](https://www.linkedin.com/in/ahmed-aboelyazeed-43ba22231/)
 
 ---
