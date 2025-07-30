@@ -62,5 +62,5 @@ These models are ideal for:
 For questions, collaboration, or support replicating these models:
 
 **👤 Ahmed AboElyazeed**  
-📧 [My_Email@gmail.com](mailto:aboelyazeed7777@gmail.com)  
+📧 [Email@gmail.com](mailto:aboelyazeed7777@gmail.com)  
 🔗 [linkedin.com/in/ahmedaboelyazeed](https://www.linkedin.com/in/ahmed-aboelyazeed-43ba22231/)
