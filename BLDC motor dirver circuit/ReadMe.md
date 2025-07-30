@@ -63,7 +63,7 @@ The control system consists of a custom-designed PCB used as the **BLDC Motor Co
 Feel free to reach out if you're building a similar motor controller or ECU for electric vehicle competitions:
 
 **👤 Ahmed AboElyazeed**  
-📧 [ahmed.abouelyazeed@gmail.com](mailto:aboelyazeed7777@gmail.com)  
+📧 [aboelyazeed7777@gmail.com](mailto:aboelyazeed7777@gmail.com)  
 🔗 [linkedin.com/in/ahmedaboelyazeed](https://www.linkedin.com/in/ahmed-aboelyazeed-43ba22231/)
 
 ---
