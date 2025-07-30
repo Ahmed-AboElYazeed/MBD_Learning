@@ -67,7 +67,7 @@ This modeling approach is useful for:
 Feel free to contact me if you're building your own BLDC simulation or controller:
 
 **👤 Ahmed AboElyazeed**  
-📧 [ahmed.abouelyazeed@gmail.com](mailto:aboelyazeed7777@gmail.com)  
+📧 [aboelyazeed7777@gmail.com](mailto:aboelyazeed7777@gmail.com)  
 🔗 [linkedin.com/in/ahmedaboelyazeed](https://www.linkedin.com/in/ahmed-aboelyazeed-43ba22231/)
 
 ---
